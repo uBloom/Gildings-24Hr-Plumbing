@@ -8502,8 +8502,8 @@ figcaption {
   height: 60vh;
   padding-top: 145px;
   padding-bottom: 145px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#333), to(transparent)), url('../images/bg.png');
-  background-image: linear-gradient(180deg, #333, transparent), url('../images/bg.png');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#333), to(transparent)), url('../images/bg.PNG');
+  background-image: linear-gradient(180deg, #333, transparent), url('../images/bg.PNG');
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
